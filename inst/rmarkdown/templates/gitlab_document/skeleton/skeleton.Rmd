@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-output: gitlab_document
+output: markdowntemplates::gitlab_document
 ---
 
 ```{r setup, include=FALSE}
